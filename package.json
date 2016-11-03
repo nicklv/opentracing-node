@@ -1,0 +1,30 @@
+{
+  "name": "opentracing-node",
+  "version": "0.1.0",
+  "description": "Node.js implementation of the OpenTracing API.",
+  "main": "index.js",
+  "scripts": {
+    "lint": "standard",
+    "test": "npm run lint && tape 'test/**/*.spec.js'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TEDDBerlin/opentracing-node.git"
+  },
+  "keywords": [
+    "opentracing",
+    "tracing",
+    "microservices",
+    "microservice",
+    "trace"
+  ],
+  "author": "Robert Jefe Lindstaedt <robert.lindstaedt@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TEDDBerlin/opentracing-node/issues"
+  },
+  "homepage": "https://github.com/TEDDBerlin/opentracing-node#readme",
+  "devDependencies": {
+    "standard": "^8.5.0"
+  }
+}
