@@ -1,6 +1,6 @@
 {
   "name": "opentracing-node",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Node.js implementation of the OpenTracing API.",
   "main": "index.js",
   "scripts": {
