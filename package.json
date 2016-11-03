@@ -25,6 +25,8 @@
   },
   "homepage": "https://github.com/TEDDBerlin/opentracing-node#readme",
   "devDependencies": {
-    "standard": "^8.5.0"
+    "nyc": "^8.4.0",
+    "standard": "^8.5.0",
+    "tape": "^4.6.2"
   }
 }
